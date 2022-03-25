@@ -1,5 +1,5 @@
 # Python-Stock-Monitor
-<br><br>
+<br>
 <h1> Projeto em Python de monitoramento de ações </h1>
 <br>
 Com o código é possível:
